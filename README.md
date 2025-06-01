@@ -87,9 +87,6 @@ Contributions are welcome! Here's how you can help:
 
 Please ensure your code is well-documented and follows the existing coding style.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
