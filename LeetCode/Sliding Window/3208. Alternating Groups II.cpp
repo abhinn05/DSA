@@ -1,13 +1,5 @@
 class Solution {
 public:
-    bool alter(vector<int>& window)
-    {
-        for (int i = 0; i < window.size() - 1; i++) 
-        {
-            if (window[i] == window[i + 1]) return false;
-        }
-        return true;
-    }
     int numberOfAlternatingGroups(vector<int>& colors, int k) {
         int ans = 0;
         for(int i=0;i<k-1;i++)
